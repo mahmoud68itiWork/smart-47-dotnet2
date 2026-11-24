@@ -1,0 +1,10 @@
+node_module/
+
+*.cpp
+
+!ahmed.cpp
+!test2.cpp
+
+*.pdf
+
+mahmoud.ts
